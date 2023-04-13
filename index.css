@@ -1,0 +1,34 @@
+h1{
+    color: red;
+}
+
+.orange_text{color: orange}
+
+#yellow_text{color:yellow}
+
+.green_background{background-color: green;}
+
+
+
+a:focus{
+    color:yellow;
+    background-color: green;
+}
+
+a:hover{
+    color:orange;
+}
+
+a:visited{
+    color:blue
+}
+
+.box1{color:purple}
+
+.circle{color:rgb(192, 35, 192);}
+
+.box2{color: black;}
+
+.shadow_right_bottom {
+    : 10px 10px 5px rgb(79, 64, 64);
+}
